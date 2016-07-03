@@ -1,0 +1,9 @@
+# To start myenv with python3 by default, run:
+source myvenv/bin/activate
+
+
+initializing GIT
+
+git init
+git config --global user.name "Your Name"
+git config --global user.email you@example.com
